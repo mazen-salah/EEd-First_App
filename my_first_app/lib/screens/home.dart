@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_first_app/colors.dart';
+import 'package:my_first_app/customs.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
